@@ -28,10 +28,3 @@ Run sync code
 → Run one macrotask
 → Drain microtasks again
 → Repeat
-
-
-## Goal of the exercise
-
-The goal was not to memorize output order, but to build a reliable mental model that allows predicting execution flow confidently in real systems.
-
-If you can explain *why* something runs when it does, you understand the event loop.
